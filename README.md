@@ -1,50 +1,43 @@
-# 🧮 Sami-Pro-Calculator
+# 🚀 Sami's Custom Python Hub 🧪
 
-<!-- Professional Badges -->
-![Python Version](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-ullah-python)
-
-A dynamic, crash-resistant command-line calculator built with Python during my learning journey. It goes beyond basic arithmetic to handle special mathematical operators and programming edge cases.
+Welcome to my personal playground of premium Python implementations! This repository contains a curated collection of my independent projects, where I turn coding logic into highly functional, crash-resistant applications. 
 
 ---
 
-## 🚀 Key Features & The Pro Twist
-
-What makes this calculator different from ordinary student projects:
-
-*   **⚡ All Essential Operators:** Supports `+`, `-`, `*`, `/`, `%`, and `**`.
-*   **🔥 The Floor Division Twist (`//`):** Includes integer division (`//`) to output clean absolute values, filtering out unnecessary decimals for advanced tracking.
-*   **🛡️ Smart Edge-Case Handling:** Protects against mathematical errors like **Division by Zero** by displaying custom warnings instead of crashing the program.
-*   **🔢 Decimal Precision:** Built using `float()` to seamlessly handle both integers and decimal values.
+## 🛠️ Tech Stack & Badges
+![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
 
-## 🛠️ Menu Options & Icons
+## 🎯 The Project Showcase
 
-| Icon | Operation | Description |
-| :---: | :--- | :--- |
-| **➕** | Addition | Sums two values |
-| **➖** | Subtraction | Subtracts second value from first |
-| **✖️** | Multiplication | Multiplies two numbers |
-| **➗** | Division | Standard division (with 0-check) |
-| **🛡️** | Modulus | Returns the mathematical remainder (`%`) |
-| **🚀** | Power / Exponent | Raises first number to the power of second (`**`) |
-| **⚖️** | Floor Division | Returns the quotient as a whole integer (`//`) |
+### 📌 Project 1: Sami-Pro-Calculator 🧮
+A dynamic, crash-resistant command-line calculator built to go beyond basic arithmetic and handle critical programming edge cases smoothly.
 
----
-
-## 💻 Tech Stack Used
-
-*   **Language:** Python 🐍
-*   **Environment:** VS Code 💻
-*   **Version Control:** Git & GitHub 🚀
+* **📁 Source Code:** [`1st_project.py`](./1st_project.py) *(Click to view code)*
+* **✨ Key Features:**
+  * Supports essential mathematical operators (`+`, `-`, `*`, `/`, `%`, `**`).
+  * **The Floor Division Twist (`//`):** Outputs absolute integer values, filtering out decimals.
+  * **Smart Edge-Case Handling:** Protects against mathematical system crashes like *Division by Zero*.
+  * Fully responsive with accurate float type precision.
 
 ---
 
-## 👤 Connect with Me
+### 📌 Project 2: Match-Case Weekday Finder ⚡
+An interactive application powered by Python's modern structural pattern matching syntax to keep track of weekly scheduling and routine vibe checkups.
 
-Let's connect and share insights about Data Science, Python programming, and analytics!
+* **📁 Source Code:** [`2nd_project.py`](./2nd_project.py) *(Click to view code)*
+* **✨ Key Features:**
+  * **Structural Matching:** Built using the ultra-clean Python `match-case` pattern.
+  * **Custom Vibe Statuses:** Maps user inputs dynamically to unique aesthetic statuses (Work Mode 💪, Grind Mode 🔥, Chill Mode 😎).
+  * **Wildcard Error Handling (`case _`):** Catches out-of-bounds numbers gracefully with localized friendly reminders.
 
-*   **LinkedIn Profile:** [![LinkedIn URL](https://img.shields.io/badge/Sami_Ullah-Click_Here-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sami-ullah-python)
+---
+
+## 🌐 Connect with Me
+Let's network and discuss Data Science, Python automation, and software engineering!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sami%20Ullah-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-ullah-python)
