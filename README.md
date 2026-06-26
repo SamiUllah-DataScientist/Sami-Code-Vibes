@@ -52,5 +52,3 @@ A comprehensive console-based academic tracking utility that automates student r
 Let's network and discuss Data Science, Python automation, and software engineering!
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-SAMI%20ULLAH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-README.md
-Displaying README.md.
